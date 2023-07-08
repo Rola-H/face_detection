@@ -1,2 +1,2 @@
 # face_detection
-face detection algorithm using haar cascades
+face detection algorithm using Multi-task Cascaded Convolutional Networks(MTCNN)
